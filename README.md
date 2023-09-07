@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Kevin 👋
 
-I'm a web developer with a passion for learning.
+I'm a **web developer** with a passion for learning.
+
 
 I became interested in software engineering when I began looking for potential solutions to problems in the education and L&D fields.
 
 My longterm goal is to create apps that improve the way we learn and grow 🚀
 
-📫 Feel free to reach me at: [collier.kevin.m@gmail.com](mailto:collier.kevin.m@gmail.com)
-
+- 📫 **Contact Me**: [collier.kevin.m@gmail.com](mailto:collier.kevin.m@gmail.com)
+- 🚀 **Most Recent Project**: [ontrack.tokyo](http://ontrack.tokyo) (Best viewed on a mobile device)
+- 💡 **Currently Working On**: Learning React JS
