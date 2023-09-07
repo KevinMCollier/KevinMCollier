@@ -19,4 +19,6 @@ I'm a web developer with a passion for learning.
 
 I became interested in software engineering when I began looking for potential solutions to problems in the education and L&D fields.
 
-My longterm goal is to create apps that improve the way we learn and grow. 🚀
+My longterm goal is to create apps that improve the way we learn and grow 🚀
+
+I'm currently learning React and how to incorporate the front-end framework with a Rails backend ✨
