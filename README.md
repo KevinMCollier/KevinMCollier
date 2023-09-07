@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KevinMCollier/KevinMCollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Kevin 👋
+
+I'm a web developer with a passion for learning.
+
+I became interested in software engineering when I began looking for potential solutions to problems in the education and L&D fields.
+
+My longterm goal is to create apps that improve the way we learn and grow. 🚀
