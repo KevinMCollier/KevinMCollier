@@ -26,6 +26,7 @@ My longterm goal is to create apps that improve the way we learn and grow 🚀
 
 🚀 **Most Recent Projects**:
 - 🐶 [OnTrack](https://www.ontrack.tokyo) (Best viewed on a mobile device. username: kevin@ontrack.com, pw: buddy000)
+- 🌤 [Weather Haiku](https://wonderful-salmiakki-9d2149.netlify.app/)
 - 🥗 [OkasanFood](https://okasan-food-karasugummi-11b736e4f407.herokuapp.com/)
 - 🍿 [Movie Watch List](https://kevin-watchlist-001-ccc2c6f4cc36.herokuapp.com/) 
 
