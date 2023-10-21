@@ -22,8 +22,6 @@ I became interested in software engineering when I began looking for potential s
 
 My longterm goal is to create apps that improve the way we learn and grow 🚀
 
-🌵 **See More at [Kevin-Collier.com](https://www.kevin-collier.com)
-
 💡 **Current Learning Goals**:
 - React JS (building personal projects)
 - Vanilla JS (JavaScript 30)
@@ -33,6 +31,9 @@ My longterm goal is to create apps that improve the way we learn and grow 🚀
 - 🐶 [OnTrack](https://www.ontrack.tokyo) (Best viewed on a mobile device. username: kevin@ontrack.com, pw: buddy000)
 - 🌤 [Weather Haiku](https://weather-haiku.xyz/)
 - 🥗 [OkasanFood](https://okasan-food-karasugummi-11b736e4f407.herokuapp.com/)
-- 🍿 [Movie Watch List](https://kevin-watchlist-001-ccc2c6f4cc36.herokuapp.com/) 
+- 🍿 [Movie Watch List](https://kevin-watchlist-001-ccc2c6f4cc36.herokuapp.com/)
+
+
+🌵 **See more about me [here](https://www.kevin-collier.com)**
 
 📫 **Contact Me**: [kevin.collier.dev@gmail.com](mailto:kevin.collier.dev@gmail.com)
