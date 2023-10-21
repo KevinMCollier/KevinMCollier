@@ -22,7 +22,12 @@ I became interested in software engineering when I began looking for potential s
 
 My longterm goal is to create apps that improve the way we learn and grow 🚀
 
-💡 **Currently Working On**: Learning ReactJS
+🌵 **See More at [Kevin-Collier.com](https://www.kevin-collier.com)
+
+💡 **Current Learning Goals**:
+- React JS (building personal projects)
+- Vanilla JS (JavaScript 30)
+- Frontend testing in JS
 
 🚀 **Most Recent Projects**:
 - 🐶 [OnTrack](https://www.ontrack.tokyo) (Best viewed on a mobile device. username: kevin@ontrack.com, pw: buddy000)
