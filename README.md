@@ -24,7 +24,6 @@ My longterm goal is to create apps that improve the way we learn and grow 🚀
 
 💡 **Current Learning Goals**:
 - React JS (building personal projects)
-- Vanilla JS (JavaScript 30)
 - Frontend testing in JS
 
 🚀 **Most Recent Projects**:
